@@ -1,0 +1,6 @@
+[book]
+authors = ["“quac88”"]
+language = "en"
+multilingual = false
+src = "src"
+title = "opentensor-docs"
