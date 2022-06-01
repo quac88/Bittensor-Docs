@@ -16,11 +16,10 @@
 - [Miner Preperation](cli/MinerPreperation.md)
 
 [Customizing a Miner](CustomizingAMiner.md)
-- [Servers](Servers.md)
-- [Validators](Validators.md)
+- [Servers](css/Servers.md)
+- [Validators](css/Validators.md)
 
 [Glossary](Glossary.md)
-- [Arguments](css/Arguments.md)
 
 [BlogPosts](BlogPosts.md)
 
